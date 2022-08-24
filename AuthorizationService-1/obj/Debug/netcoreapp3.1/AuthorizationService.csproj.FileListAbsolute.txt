@@ -1,0 +1,94 @@
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuthorizationService-1\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuthorizationService-1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuthorizationService-1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuthorizationService-1\bin\Debug\netcoreapp3.1\AuthorizationService.exe
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuthorizationService-1\bin\Debug\netcoreapp3.1\AuthorizationService.deps.json
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuthorizationService-1\bin\Debug\netcoreapp3.1\AuthorizationService.runtimeconfig.json
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuthorizationService-1\bin\Debug\netcoreapp3.1\AuthorizationService.runtimeconfig.dev.json
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuthorizationService-1\bin\Debug\netcoreapp3.1\AuthorizationService.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuthorizationService-1\bin\Debug\netcoreapp3.1\AuthorizationService.pdb
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuthorizationService-1\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuthorizationService-1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuthorizationService-1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuthorizationService-1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuthorizationService-1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuthorizationService-1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuthorizationService-1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuthorizationService-1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuthorizationService-1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuthorizationService-1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuthorizationService-1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuthorizationService-1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuthorizationService-1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuthorizationService-1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuthorizationService-1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuthorizationService-1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuthorizationService-1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuthorizationService-1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuthorizationService-1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuthorizationService-1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuthorizationService-1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuthorizationService-1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuthorizationService-1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuthorizationService-1\obj\Debug\netcoreapp3.1\AuthorizationService.csproj.AssemblyReference.cache
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuthorizationService-1\obj\Debug\netcoreapp3.1\AuthorizationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuthorizationService-1\obj\Debug\netcoreapp3.1\AuthorizationService.AssemblyInfoInputs.cache
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuthorizationService-1\obj\Debug\netcoreapp3.1\AuthorizationService.AssemblyInfo.cs
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuthorizationService-1\obj\Debug\netcoreapp3.1\AuthorizationService.csproj.CoreCompileInputs.cache
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuthorizationService-1\obj\Debug\netcoreapp3.1\AuthorizationService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuthorizationService-1\obj\Debug\netcoreapp3.1\AuthorizationService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuthorizationService-1\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationService.StaticWebAssets.Manifest.cache
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuthorizationService-1\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationService.StaticWebAssets.xml
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuthorizationService-1\obj\Debug\netcoreapp3.1\scopedcss\bundle\AuthorizationService.styles.css
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuthorizationService-1\obj\Debug\netcoreapp3.1\AuthorizationService.RazorTargetAssemblyInfo.cache
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuthorizationService-1\obj\Debug\netcoreapp3.1\AuthorizationService.csproj.CopyComplete
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuthorizationService-1\obj\Debug\netcoreapp3.1\AuthorizationService.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuthorizationService-1\obj\Debug\netcoreapp3.1\AuthorizationService.pdb
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuthorizationService-1\obj\Debug\netcoreapp3.1\AuthorizationService.genruntimeconfig.cache
+E:\audit management\AuthorizationService-1\bin\Debug\netcoreapp3.1\log4net.config
+E:\audit management\AuthorizationService-1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\audit management\AuthorizationService-1\bin\Debug\netcoreapp3.1\appsettings.json
+E:\audit management\AuthorizationService-1\bin\Debug\netcoreapp3.1\AuthorizationService.exe
+E:\audit management\AuthorizationService-1\bin\Debug\netcoreapp3.1\AuthorizationService.deps.json
+E:\audit management\AuthorizationService-1\bin\Debug\netcoreapp3.1\AuthorizationService.runtimeconfig.json
+E:\audit management\AuthorizationService-1\bin\Debug\netcoreapp3.1\AuthorizationService.runtimeconfig.dev.json
+E:\audit management\AuthorizationService-1\bin\Debug\netcoreapp3.1\AuthorizationService.dll
+E:\audit management\AuthorizationService-1\bin\Debug\netcoreapp3.1\AuthorizationService.pdb
+E:\audit management\AuthorizationService-1\bin\Debug\netcoreapp3.1\log4net.dll
+E:\audit management\AuthorizationService-1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\audit management\AuthorizationService-1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\audit management\AuthorizationService-1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\audit management\AuthorizationService-1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\audit management\AuthorizationService-1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\audit management\AuthorizationService-1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\audit management\AuthorizationService-1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\audit management\AuthorizationService-1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\audit management\AuthorizationService-1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+E:\audit management\AuthorizationService-1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\audit management\AuthorizationService-1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\audit management\AuthorizationService-1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\audit management\AuthorizationService-1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\audit management\AuthorizationService-1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\audit management\AuthorizationService-1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\audit management\AuthorizationService-1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\audit management\AuthorizationService-1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\audit management\AuthorizationService-1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\audit management\AuthorizationService-1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\audit management\AuthorizationService-1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\audit management\AuthorizationService-1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\audit management\AuthorizationService-1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\audit management\AuthorizationService-1\obj\Debug\netcoreapp3.1\AuthorizationService.csproj.AssemblyReference.cache
+E:\audit management\AuthorizationService-1\obj\Debug\netcoreapp3.1\AuthorizationService.GeneratedMSBuildEditorConfig.editorconfig
+E:\audit management\AuthorizationService-1\obj\Debug\netcoreapp3.1\AuthorizationService.AssemblyInfoInputs.cache
+E:\audit management\AuthorizationService-1\obj\Debug\netcoreapp3.1\AuthorizationService.AssemblyInfo.cs
+E:\audit management\AuthorizationService-1\obj\Debug\netcoreapp3.1\AuthorizationService.csproj.CoreCompileInputs.cache
+E:\audit management\AuthorizationService-1\obj\Debug\netcoreapp3.1\AuthorizationService.MvcApplicationPartsAssemblyInfo.cs
+E:\audit management\AuthorizationService-1\obj\Debug\netcoreapp3.1\AuthorizationService.MvcApplicationPartsAssemblyInfo.cache
+E:\audit management\AuthorizationService-1\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationService.StaticWebAssets.Manifest.cache
+E:\audit management\AuthorizationService-1\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationService.StaticWebAssets.xml
+E:\audit management\AuthorizationService-1\obj\Debug\netcoreapp3.1\scopedcss\bundle\AuthorizationService.styles.css
+E:\audit management\AuthorizationService-1\obj\Debug\netcoreapp3.1\AuthorizationService.RazorTargetAssemblyInfo.cache
+E:\audit management\AuthorizationService-1\obj\Debug\netcoreapp3.1\AuthorizationService.csproj.CopyComplete
+E:\audit management\AuthorizationService-1\obj\Debug\netcoreapp3.1\AuthorizationService.dll
+E:\audit management\AuthorizationService-1\obj\Debug\netcoreapp3.1\AuthorizationService.pdb
+E:\audit management\AuthorizationService-1\obj\Debug\netcoreapp3.1\AuthorizationService.genruntimeconfig.cache
